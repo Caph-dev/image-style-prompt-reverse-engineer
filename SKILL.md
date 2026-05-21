@@ -41,7 +41,7 @@ Cover these dimensions internally before writing the prompt:
 
 ## Prompt Construction Rules
 
-- Begin the final Chinese prompt with, or place near its core, the exact placeholder: `[在此处替换为您想要生成的主体内容]`.
+- Begin the final Chinese prompt with, or place near its core, the exact placeholder: `[Replace this with the main content you want to generate]`.
 - Make the prompt general enough that replacing the placeholder creates a new image with the same style rather than a copy of the reference.
 - Describe style traits as transferable instructions, not as references to the original image.
 - Prefer concrete visual language over labels alone. For example, pair "cinematic" with lighting, framing, lens, contrast, and color behavior.
@@ -61,7 +61,7 @@ Use this pattern as a guide, adapting the wording to the actual reference image:
 Before finalizing, verify that:
 
 - The prompt is written in Chinese unless the user requested otherwise.
-- The placeholder appears exactly as `[在此处替换为您想要生成的主体内容]`.
+- The placeholder appears exactly as `[Replace this with the main content you want to generate]`.
 - The prompt is reusable with a different subject.
 - The original image's specific identity, text, brands, and plot have been removed.
 - The 15 style dimensions are represented either explicitly or through compact descriptive phrases.

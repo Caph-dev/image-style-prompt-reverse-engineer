@@ -9,9 +9,6 @@ source-specific content. Use it when the goal is to preserve the image's visual 
 composition, lighting, color science, texture, atmosphere, rendering traits, and cultural
 context, while replacing the original subject with a new one.
 
-By default, the skill outputs only a polished Chinese prompt and includes the required
-Chinese subject placeholder defined in `SKILL.md`.
-
 ## Example prompts
 
 ```text
