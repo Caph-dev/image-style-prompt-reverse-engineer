@@ -9,8 +9,6 @@ description: Reverse-engineer the visual style of one or more reference images i
 
 Use this skill to inspect a reference image and produce a polished, reusable image-generation prompt that captures the image's aesthetic DNA without copying its concrete subject matter.
 
-The skill instructions are in English, but the default deliverable is a complete Chinese prompt unless the user explicitly requests another output language.
-
 ## Workflow
 
 1. Confirm that at least one reference image is available in the conversation or via a usable local path. If no image is available, ask the user to provide one.
@@ -41,7 +39,7 @@ Cover these dimensions internally before writing the prompt:
 
 ## Prompt Construction Rules
 
-- Begin the final Chinese prompt with, or place near its core, the exact placeholder: `[Replace this with the main content you want to generate]`.
+- Begin the final prompt with, or place near its core, the exact placeholder: `[Replace this with the main content you want to generate]`.
 - Make the prompt general enough that replacing the placeholder creates a new image with the same style rather than a copy of the reference.
 - Describe style traits as transferable instructions, not as references to the original image.
 - Prefer concrete visual language over labels alone. For example, pair "cinematic" with lighting, framing, lens, contrast, and color behavior.
@@ -60,9 +58,9 @@ Use this pattern as a guide, adapting the wording to the actual reference image:
 
 Before finalizing, verify that:
 
-- The prompt is written in Chinese unless the user requested otherwise.
+- The prompt is written in English unless the user requested otherwise.
 - The placeholder appears exactly as `[Replace this with the main content you want to generate]`.
 - The prompt is reusable with a different subject.
 - The original image's specific identity, text, brands, and plot have been removed.
 - The 15 style dimensions are represented either explicitly or through compact descriptive phrases.
-- The answer contains only the final prompt text when the user requested no analysis.
+- The answer contains only the final prompt text unless the user requested an analysis.
