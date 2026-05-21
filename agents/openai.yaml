@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Style Prompt Reverse Engineer"
+  short_description: "Turn image styles into reusable prompts"
+  default_prompt: "Use $image-style-prompt-reverse-engineer to analyze this reference image and output only the reusable Chinese style prompt."
