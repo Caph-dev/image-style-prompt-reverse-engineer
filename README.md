@@ -9,7 +9,21 @@ source-specific content. Use it when the goal is to preserve the image's visual 
 composition, lighting, color science, texture, atmosphere, rendering traits, and cultural
 context, while replacing the original subject with a new one.
 
-## Example prompts
+## Example works
+
+**Want the prompts behind these examples? Use this skill.**
+
+![Example 1](<./assets/eg1.png>)
+
+![Example 2](<./assets/eg2.png>)
+
+![Example 3](<./assets/eg3.png>)
+
+![Example 4](<./assets/eg4.png>)
+
+![Example 5](<./assets/eg5.png>)
+
+### Example prompts
 
 ```text
 Use $image-style-prompt-reverse-engineer to analyze this reference image and output only the reusable Chinese style prompt.
