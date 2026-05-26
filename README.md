@@ -26,7 +26,7 @@ context, while replacing the original subject with a new one.
 ### Example prompts
 
 ```text
-Use $image-style-prompt-reverse-engineer to analyze this reference image and output only the reusable Chinese style prompt.
+Use $image-style-prompt-reverse-engineer to analyze this reference image and output only the reusable style prompt.
 ```
 
 ```text
