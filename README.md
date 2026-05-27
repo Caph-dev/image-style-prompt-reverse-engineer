@@ -1,5 +1,7 @@
 # image-style-prompt-reverse-engineer
 
+[![skills.sh](https://skills.sh/b/Caph-dev/image-style-prompt-reverse-engineer)](https://skills.sh/Caph-dev/image-style-prompt-reverse-engineer)
+
 Reverse-engineer the visual style of a reference image into a reusable AI image-generation prompt.
 
 ## What it does
@@ -8,6 +10,10 @@ This skill is for extracting the aesthetic language of a reference image while r
 source-specific content. Use it when the goal is to preserve the image's visual style,
 composition, lighting, color science, texture, atmosphere, rendering traits, and cultural
 context, while replacing the original subject with a new one.
+
+## How it works
+
+![Skill workflow](./assets/flowchart.png)
 
 ## Example works
 
@@ -35,35 +41,48 @@ Analyze the style of this image, remove the specific character and story details
 
 ## Installation
 
-### Fastest path for any agent
+### Recommended: skills CLI
 
-Send this repository link to your agent and ask it to install the skill:
+Install with the [skills CLI](https://github.com/vercel-labs/skills) ([docs](https://www.skills.sh/docs)):
 
-`https://github.com/Caph-dev/image-style-prompt-reverse-engineer`
+```bash
+npx skills add Caph-dev/image-style-prompt-reverse-engineer
+```
 
-Tell it to keep the repository available in the workspace, read `SKILL.md`, and wire the skill into its own project-instruction system.
+```bash
+# Global install (available in all projects)
+npx skills add Caph-dev/image-style-prompt-reverse-engineer -g
 
-You can also paste this prompt directly into your agent:
+# Install to Cursor only
+npx skills add Caph-dev/image-style-prompt-reverse-engineer -a cursor -y
+
+# List skills in this repo without installing
+npx skills add Caph-dev/image-style-prompt-reverse-engineer --list
+```
+
+The CLI detects your installed agents (Cursor, Claude Code, Codex, and [50+ more](https://github.com/vercel-labs/skills#supported-agents)) and wires the skill into the right directory.
+
+### Hermes
+
+```bash
+hermes skills install https://github.com/Caph-dev/image-style-prompt-reverse-engineer
+```
+
+### Manual install
+
+**Ask your agent** — paste this prompt:
 
 ```text
 Install the skill from https://github.com/Caph-dev/image-style-prompt-reverse-engineer.
 ```
 
-### Codex
-
-Clone or copy the repository into your Codex skills directory:
-
-```text
-~/.codex/skills/image-style-prompt-reverse-engineer
-```
-
-Example:
+**Codex** — clone into your skills directory:
 
 ```zsh
 git clone https://github.com/Caph-dev/image-style-prompt-reverse-engineer ~/.codex/skills/image-style-prompt-reverse-engineer
 ```
 
-After installing, restart Codex to pick up the new skill.
+Restart the agent after installing so it picks up the new skill.
 
 ## Repository structure
 
