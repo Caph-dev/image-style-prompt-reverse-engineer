@@ -17,17 +17,15 @@ context, while replacing the original subject with a new one.
 
 ## Example works
 
-**Want the prompts behind these examples? Use this skill.**
+**Want to know the prompts behind these examples? Use this skill.**
 
-![Example 1](<./assets/eg1.png>)
-
-![Example 2](<./assets/eg2.png>)
-
-![Example 3](<./assets/eg3.png>)
-
-![Example 4](<./assets/eg4.png>)
-
-![Example 5](<./assets/eg5.png>)
+| | | |
+|:---:|:---:|:---:|
+| ![Example 1](./assets/eg1.png) | ![Example 2](./assets/eg2.png) | ![Example 3](./assets/eg3.png) |
+| ![Example 4](./assets/eg4.png) | ![Example 5](./assets/eg5.png) | ![Example 6](./assets/eg6.png) |
+| ![Example 7](./assets/eg7.png) | ![Example 8](./assets/eg8.png) | ![Example 9](./assets/eg9.png) |
+| ![Example 10](./assets/eg10.png) | ![Example 11](./assets/eg11.png) | ![Example 12](./assets/eg12.png) |
+| ![Example 13](./assets/eg13.png) | ![Example 14](./assets/eg14.png) | ![Example 15](./assets/eg15.png) |
 
 ### Example prompts
 
@@ -94,3 +92,14 @@ Restart the agent after installing so it picks up the new skill.
 
 This repository is intentionally small. The skill logic lives in `SKILL.md`;
 this README is only for humans browsing the GitHub repo.
+
+## License
+
+This project is released under the [MIT License](./LICENSE).
+
+## Acknowledgments
+
+Thanks to:
+
+- **@sallyn from Linux DO, this skill is actually his idea**
+- [Linux Do](https://linux.do/)
