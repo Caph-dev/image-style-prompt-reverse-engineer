@@ -21,11 +21,11 @@ context, while replacing the original subject with a new one.
 
 | | | |
 |:---:|:---:|:---:|
-| ![Example 1](./assets/eg1.png) | ![Example 2](./assets/eg2.png) | ![Example 3](./assets/eg3.png) |
-| ![Example 4](./assets/eg4.png) | ![Example 5](./assets/eg5.png) | ![Example 6](./assets/eg6.png) |
-| ![Example 7](./assets/eg7.png) | ![Example 8](./assets/eg8.png) | ![Example 9](./assets/eg9.png) |
-| ![Example 10](./assets/eg10.png) | ![Example 11](./assets/eg11.png) | ![Example 12](./assets/eg12.png) |
-| ![Example 13](./assets/eg13.png) | ![Example 14](./assets/eg14.png) | ![Example 15](./assets/eg15.png) |
+| ![Example 1](https://images2.imgbox.com/4f/20/l3b3BV9s_o.png) | ![Example 2](https://images2.imgbox.com/6f/c0/MrJCGIse_o.png) | ![Example 3](https://images2.imgbox.com/70/a7/MUwOe4J6_o.png) |
+| ![Example 4](https://images2.imgbox.com/13/be/FdQvD7w6_o.png) | ![Example 5](https://images2.imgbox.com/93/67/oqTBasfk_o.png) | ![Example 6](https://images2.imgbox.com/1e/f3/UcEmSUM8_o.png) |
+| ![Example 7](https://images2.imgbox.com/5b/56/MF17fG8V_o.png) | ![Example 8](https://images2.imgbox.com/25/95/vliroAjr_o.png) | ![Example 9](https://images2.imgbox.com/3b/5d/zfkwFEAb_o.png) |
+| ![Example 10](https://images2.imgbox.com/76/f7/VljOFHmH_o.png) | ![Example 11](https://images2.imgbox.com/79/1f/gAWdWh5Q_o.png) | ![Example 12](https://images2.imgbox.com/fc/d6/rSmOmo9V_o.png) |
+| ![Example 13](https://images2.imgbox.com/b3/64/8bhYFP3Z_o.png) | ![Example 14](https://images2.imgbox.com/26/37/1yvXkDPR_o.png) | ![Example 15](https://images2.imgbox.com/24/28/nh7LDbEa_o.png) |
 
 ### Example prompts
 
@@ -59,12 +59,6 @@ npx skills add Caph-dev/image-style-prompt-reverse-engineer --list
 ```
 
 The CLI detects your installed agents (Cursor, Claude Code, Codex, and [50+ more](https://github.com/vercel-labs/skills#supported-agents)) and wires the skill into the right directory.
-
-### Hermes
-
-```bash
-hermes skills install https://github.com/Caph-dev/image-style-prompt-reverse-engineer
-```
 
 ### Manual install
 
