@@ -23,9 +23,9 @@ context, while replacing the original subject with a new one.
 |:---:|:---:|:---:|
 | ![Example 1](https://images2.imgbox.com/4f/20/l3b3BV9s_o.png) | ![Example 2](https://images2.imgbox.com/6f/c0/MrJCGIse_o.png) | ![Example 3](https://images2.imgbox.com/70/a7/MUwOe4J6_o.png) |
 | ![Example 4](https://images2.imgbox.com/13/be/FdQvD7w6_o.png) | ![Example 5](https://images2.imgbox.com/93/67/oqTBasfk_o.png) | ![Example 6](https://images2.imgbox.com/1e/f3/UcEmSUM8_o.png) |
-| ![Example 7](https://images2.imgbox.com/5b/56/MF17fG8V_o.png) | ![Example 8](https://images2.imgbox.com/25/95/vliroAjr_o.png) | ![Example 9](https://images2.imgbox.com/3b/5d/zfkwFEAb_o.png) |
-| ![Example 10](https://images2.imgbox.com/76/f7/VljOFHmH_o.png) | ![Example 11](https://images2.imgbox.com/79/1f/gAWdWh5Q_o.png) | ![Example 12](https://images2.imgbox.com/fc/d6/rSmOmo9V_o.png) |
-| ![Example 13](https://images2.imgbox.com/b3/64/8bhYFP3Z_o.png) | ![Example 14](https://images2.imgbox.com/26/37/1yvXkDPR_o.png) | ![Example 15](https://images2.imgbox.com/24/28/nh7LDbEa_o.png) |
+| ![Example 7](https://images2.imgbox.com/25/95/vliroAjr_o.png) | ![Example 8](https://images2.imgbox.com/3b/5d/zfkwFEAb_o.png) | ![Example 9](https://images2.imgbox.com/76/f7/VljOFHmH_o.png) |
+| ![Example 10](https://images2.imgbox.com/79/1f/gAWdWh5Q_o.png) | ![Example 11](https://images2.imgbox.com/d8/f4/QwZWQlAR_o.png) | ![Example 12](https://images2.imgbox.com/0a/31/WXSuHfGE_o.png) |
+| ![Example 13](https://images2.imgbox.com/32/d9/QH1mC2u7_o.png) | ![Example 14](https://images2.imgbox.com/48/32/m9gkNKsr_o.png) | ![Example 15](https://images2.imgbox.com/11/87/osT53dOv_o.png) |
 
 ### Example prompts
 
